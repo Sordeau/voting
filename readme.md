@@ -2,6 +2,7 @@
 
 - Add python to your PATH environment if necessary
 - Put geckodriver in your system's PATH location or add geckodriver to PATH directly
+- Update "sample_creds.json" to contain your credentaisl and rename to "creds.json"
 
 # Windows Scheduler Instructions: #
 
